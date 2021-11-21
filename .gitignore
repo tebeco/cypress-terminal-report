@@ -1,4 +1,8 @@
-node_modules
+.idea
+.vscode
+
+node_modules/
+
 test/node_modules
 test/cypress/screenshots
 test/cypress/videos
@@ -7,5 +11,3 @@ test/output/out.txt
 test/output/not/existing/path/out.txt
 test/output/out.cst
 test/output_nested
-.idea
-.vscode
